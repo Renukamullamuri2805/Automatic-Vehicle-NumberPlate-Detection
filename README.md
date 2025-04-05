@@ -2,9 +2,6 @@
 
 This project is a **Streamlit-based Web app** that allows users to detect and extract license number plate information from **images and videos** using computer vision techniques with **OpenCV**
 
-Run the stream6.py file using command streamlit run stream6.py
-Then we get the streamlit interface to uplaod image or video.
-
 ## Features
 - Upload an image and extract the license plate number.
 - Upload a video and process frames to extyract license plates.
